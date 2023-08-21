@@ -1,0 +1,4 @@
+name: CreeperRemover
+version: '${version}'
+main: com.halfsnow.CreeperRemover
+api-version: '1.16'
